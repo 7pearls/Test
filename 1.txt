@@ -1,2 +1,6 @@
 This is India
 Banhalore Chennai
+int main(){
+	float a=12.45;
+	return a;
+}
